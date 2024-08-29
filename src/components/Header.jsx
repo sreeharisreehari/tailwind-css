@@ -16,7 +16,7 @@ export default function Example() {
      {/* <img className='mt-12 mr-64 w-96' src="src/assets/images/batman-text.png" alt=""/> */}
       <h1 className='heading12 text-yellow-400 sm:text-7xl md:text-7xl lg:text-9xl mt-32'>Batman</h1> 
 
-     <ShadowEffect/>
+    
 
      </div>
     <div className="relative  p-6 rounded-lg ">
